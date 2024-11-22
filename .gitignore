@@ -6,3 +6,4 @@ code/.Rhistory
 data/*.rds
 output/*.rds
 output/*.png
+report.html

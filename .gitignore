@@ -1,4 +1,8 @@
 .DS_Store
+code/.DS_Store
+data/.DS_Store
+output/.DS_Store
+code/.Rhistory
 data/*.rds
 output/*.rds
 output/*.png

@@ -18,3 +18,7 @@ output/model.png: code/03_visualization.R output/means.rds
 .PHONY: clean
 clean:
 	rm -f data/*.rds output/*.rds output/*.png *.html
+
+.PHONY: install
+install:
+	Rscript -e "renv::restore(prompt = FALSE)"

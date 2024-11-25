@@ -29,8 +29,8 @@ The report contains the following sections:
 
 * Findings and conclusions
 
-To generate the report, navigate to the main project folder and simply run `make` in the terminal. This command will sequentially clean the data, perform the analysis, and render the final report.
+To generate the report, navigate to the main project folder and simply run `make` in the Rstudio terminal. This command will sequentially clean the data, perform the analysis, and render the final report.
 
 # How to synchronize the package repository
 
-To synchronize the package repository, navigate to the main project folder and run `make install` in the terminal. This is a shortcut to running `renv::restore()`, which restores the package library.
+To synchronize the package repository, navigate to the main project folder and run `make install` in the Rstudio terminal. This is a shortcut to running `renv::restore()`, which restores the package library.

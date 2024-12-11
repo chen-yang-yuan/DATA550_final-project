@@ -1,9 +1,11 @@
 .DS_Store
-code/.DS_Store
+.Rhistory
 data/.DS_Store
-output/.DS_Store
+code/.DS_Store
 code/.Rhistory
+output/.DS_Store
 data/*.rds
 output/*.rds
 output/*.png
-report.html
+report/*.html
+project_image

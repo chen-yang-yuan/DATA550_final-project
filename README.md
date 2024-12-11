@@ -33,7 +33,7 @@ To build a Docker image from scratch that can be used to create the fully reprod
 
 An image built from the Dockerfile has been uploaded to DockerHub: https://hub.docker.com/repository/docker/chenyangyuan/project_image/general.
 
-Building the Docker image locally is __NOT__ required in this project, as the Makefile references the image that is on DockerHub.
+Building the Docker image locally is __NOT__ required in this project, as the Makefile references the image on DockerHub.
 
 # Run the Docker image and build the report
 
